@@ -60,7 +60,7 @@
 <th colspan="3"><img src=".\acc.png" alt="" border='3' height='250' width='250' /></th
 **you can see train and test improve well in 50 epoch .**
 
-> we can use another optimizer like `SGD` or `RMSprop` that i commented in the cell that i write the Adam optimizer.
+> we can use another optimizer like `SGD` or `RMSprop` that i commented relevant code in the cell that i wrote the Adam optimizer.
 
 
 
